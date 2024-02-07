@@ -20,8 +20,6 @@ As a seasoned software engineer, I bring a wealth of experience in full-stack de
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
-### 📊 Stats
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=usmanshabbir&theme=dark&hide_border=true&mode=weekly&hide_total_contributions=true" alt="GitHub Streak" /></a>
 #
 
 <details>
