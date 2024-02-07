@@ -22,7 +22,7 @@ As a seasoned software engineer, I bring a wealth of experience in full-stack de
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github.vercel.app/api?username=usmanshabbir756&show_icons=true&theme=gruvbox)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=usmanshabbir756&show_icons=flase&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=usmanshabbir756&theme=gruvbox&border_radius=4.5) -->
 
