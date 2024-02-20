@@ -2,7 +2,7 @@
 
 **`SOFTWARE ENGINEER`**
 
-As a seasoned software engineer, I bring a wealth of experience in full-stack development, proficient in a diverse array of technologies. My expertise spans Java 21, Spring Boot 3, Spring Data JPA with Hibernate 6, MySQL, Maven, and Postman for backend development. On the frontend, I excel in React.js 18+, Vite.js, Bootstrap CSS, JavaScript, npm, and Axios, ensuring seamless user experiences. With a commitment to clean, maintainable code, I deliver robust, scalable solutions that meet both business needs and user expectations, continually embracing new challenges for growth and innovation.
+As a seasoned software engineer, I bring a wealth of experience in full-stack development, proficient in a diverse array of technologies. My expertise spans Java 21, Spring Boot 3, Spring Data JPA with Hibernate 6, MySQL, Maven, and Postman for backend development. On the frontend, I excel in Next.js 4, React.js 18+, Vite.js, Bootstrap CSS, JavaScript, npm, and Axios, ensuring seamless user experiences. With a commitment to clean, maintainable code, I deliver robust, scalable solutions that meet both business needs and user expectations, continually embracing new challenges for growth and innovation.
 
 ---
 
@@ -34,6 +34,6 @@ As a seasoned software engineer, I bring a wealth of experience in full-stack de
  <summary><h3>👨‍💻 USMAN's Coding Journey</h3></summary>
   As a full-stack developer, my journey in software engineering has been characterized by a dynamic blend of technical expertise and continuous learning. Armed with Java 21, Spring Boot 3, and Spring Data JPA (utilizing Hibernate 6), I've navigated the intricacies of back-end development with precision and finesse. My proficiency in crafting efficient, scalable solutions extends to database management, where I leverage MySQL alongside Maven for seamless project integration.
 
-Beyond the server-side realm, I embrace the challenges of front-end development with zeal. Armed with React.js 18+, Vite.js, and Bootstrap CSS, I breathe life into user interfaces, ensuring a seamless and intuitive experience for end-users. My command over JavaScript, coupled with npm and Axios, empowers me to orchestrate seamless communication between client and server, ensuring robust functionality across the entire software ecosystem.
+Beyond the server-side realm, I embrace the challenges of front-end development with zeal. Armed with Next.js, React.js 18+, Vite.js, and Bootstrap CSS, I breathe life into user interfaces, ensuring a seamless and intuitive experience for end-users. My command over JavaScript, coupled with npm and Axios, empowers me to orchestrate seamless communication between client and server, ensuring robust functionality across the entire software ecosystem.
 
 Throughout my journey, I've remained steadfast in my commitment to delivering high-quality software solutions. Whether architecting the back-end infrastructure or fine-tuning the front-end interface, my focus remains unwavering on crafting clean, maintainable code that exceeds both business objectives and user expectations. As I continue to evolve in this ever-changing landscape, I embrace each new challenge as an opportunity for growth, pushing the boundaries of innovation and excellence in software engineering.
