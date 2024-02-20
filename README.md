@@ -2,7 +2,7 @@
 
 **`SOFTWARE ENGINEER`**
 
-As a seasoned software engineer, I bring a wealth of experience in full-stack development, proficient in a diverse array of technologies. My expertise spans Java 21,<b> Spring Boot 3</b>, Spring Data JPA with Hibernate 6, MySQL, Maven, and Postman for backend development. On the frontend, I excel in <b> Next.js 4</b>, React.js 18+, Vite.js, Bootstrap CSS, JavaScript, npm, and Axios, ensuring seamless user experiences. With a commitment to clean, maintainable code, I deliver robust, scalable solutions that meet both business needs and user expectations, continually embracing new challenges for growth and innovation.
+As a seasoned software engineer, I bring a wealth of experience in full-stack development, proficient in a diverse array of technologies. My expertise spans Java 21,<b> Spring Boot 3</b>, Spring Data JPA with Hibernate 6, MySQL, Maven, and Postman for backend development. On the frontend, I excel in <b> Next.js 14</b>, React.js 18+, Vite.js, Bootstrap CSS, JavaScript, npm, and Axios, ensuring seamless user experiences. With a commitment to clean, maintainable code, I deliver robust, scalable solutions that meet both business needs and user expectations, continually embracing new challenges for growth and innovation.
 
 ---
 
